@@ -1,0 +1,7 @@
+{
+  "UrlIndexPath": "DownLoad novels Index.html, Example : https://www.ptwxz.com/html/9/9513/index.html",
+  "DownloadFilePath": "YourDownloadPath",
+  "StartCharpter": 0,
+  "EndCharpter": 0,
+  "CharpterRangeToFile": 250
+}
